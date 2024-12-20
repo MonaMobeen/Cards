@@ -68,7 +68,7 @@ Age: 19
 
 <pre>
 <strong>Step 1:</strong> Clone the repository.
-<code>git clone https://github.com/yourusername/react-form-cards.git</code>
+<code>git clone https://github.com/MonaMobeen/react-form-cards.git</code>
 
 <strong>Step 2:</strong> Navigate to the project directory.
 <code>cd react-form-cards</code>
